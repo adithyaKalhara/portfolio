@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name": "Adithya Hettiarachchi",
+    "description": "Hey everyone! I am Adithya Kalhara Hettiarachchi. A good portfolio is more than a long list of good stocks and bonds. You are warmly welcome to go through",
+    "image": "profileneww.png",
+    "bio": "I am software engineering undergraduate at Informatics Institute of Technologies (IIT) Sri Lanka. I am a hardworking individual targeting to improve the skills and give my fullest effort for the betterment of your company. I am a skilled and experienced in analysis, design, evelopment, testing and implementation of programming languages and web-based applications. I try my best to enhance my knowledge about new and emerging trends in the IT sector.",
+    "contactmessage": "Please let me know your feedback",
+    "email": "adithyakalhara98@gmail.com",
+    "phone": "0779747787",
+    "github": "https://github.com/adithyaKalhara",
+    "project": "#portfolio",
+    "address": {
+      "street": "5/1/1, VidyalaWataMawatha, Piliyandala",
+      "city": "Colombo",
+      "state": "Sri Lanka",
+      "zip": "LinkedIn : https://www.linkedin.com/in/adithya-hettiarachchi-6452841a1"
+    },
+    "website": "/files/Adithya Hettiarachchi_CV.pdf",
+    "resumedownload": "/files/Adithya Hettiarachchi_CV.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/AdithyaH_98?s=08",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/adithya-hettiarachchi-6452841a1/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://instagram.com/adithya.k_h?utm_medium=copy_link",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/adithyaKalhara",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Languages Frameworks I am familiar with",
+    "education": [
+      {
+        "school": "Level 05 - from September 2020 to May 2021",
+        "degree": "Subjects",
+        "graduated": " Software Development Group Project | Database Systems | Object Oriented Programming | Client Server Architecture | Mobile Application Development | Algorithms: Theory Design and Implementation.",
+        "description": "In this year I have exposed to new technologies such as machine learning, ReactJS, Andoroid application Development etc."
+      }
+    ],
+    "work": [
+      {
+        "school": "Level 05 - from September 2020 to May 2021",
+        "degree": "Subjects",
+        "graduated": " Software Development Group Project | Database Systems | Object Oriented Programming | Client Server Architecture | Mobile Application Development | Algorithms: Theory Design and Implementation.",
+        "description": "In this year I have exposed to new technologies such as machine learning, ReactJS, Andoroid application Development etc."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Angular",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Play Framework",
+        "level": "60%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "55%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "JAVA",
+        "level": "90%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      }
+    ],
+    "Familiars": [
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Angular",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "JAVA",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "VIUWER",
+        "category": "Measuring the social impact by a YouTube video by getting Sentimental Analysis from YouTube Comments.",
+        "image": "",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Auto Cruise",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Movie Mania",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": ""
+      },
+      {
+        "title": "Football League Management System",
+        "category": "",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      }
+    ]
+  }
+}
